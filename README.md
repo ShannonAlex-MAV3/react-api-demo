@@ -1,5 +1,5 @@
 ## Getting Started
-First install the node module
+First install the node modules
 ```bash
 npm install
 ```
